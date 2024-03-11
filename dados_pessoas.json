@@ -1,0 +1,80 @@
+[
+  {
+    "NomeCompleto": "Ana Silva",
+    "Endereco": "Rua das Flores, 123, Cidade Alegre",
+    "Nacionalidade": "Brasileira",
+    "Idade": 25,
+    "Sexo": "Feminino"
+  },
+  {
+    "NomeCompleto": "Victor Valadão",
+    "Endereco": "Rua Limoeiro, 60, Barcelona",
+    "Nacionalidade": "Brasileiro",
+    "Idade": 35,
+    "Sexo": "Masculino"
+  },
+
+  {
+    "NomeCompleto": "Talis Valadão",
+    "Endereco": "Rua Don Pedro, 465, Colina de Laranjeiras",
+    "Nacionalidade": "Brasileiro",
+    "Idade": 33,
+    "Sexo": "Masculino"
+  },
+
+  {
+    "NomeCompleto": "Lucas Valadão",
+    "Endereco": "Rua  dos Cocais, 123, Valparaiso",
+    "Nacionalidade": "Brasileiro",
+    "Idade": 28,
+    "Sexo": "Masculino"
+  },
+
+  {
+    "NomeCompleto": "Rodolpho Oliveira",
+    "Endereco": "Rua das Itatibas, 543, Itacibá",
+    "Nacionalidade": "Brasileiro",
+    "Idade": 31,
+    "Sexo": "Masculino"
+  },
+
+  {
+    "NomeCompleto": "Irinéia Valadão",
+    "Endereco": "Rua Limoeiro, 60, Barcelona",
+    "Nacionalidade": "Brasileira",
+    "Idade": 63,
+    "Sexo": "Feminino"
+  },
+
+  {
+    "NomeCompleto": "Luana Colatto",
+    "Endereco": "Rua Don Pedro, 564, Colina de Laranjeiras",
+    "Nacionalidade": "Brasileira",
+    "Idade": 28,
+    "Sexo": "Feminino"
+  },
+
+  {
+    "NomeCompleto": "Ester Emerick",
+    "Endereco": "Rua das Flores, 754, Valparaiso",
+    "Nacionalidade": "Brasileira",
+    "Idade": 27,
+    "Sexo": "Feminino"
+  },
+
+  {
+    "NomeCompleto": "Talis Piccin",
+    "Endereco": "Rua das Roseiras, 56, Cidade Feliz",
+    "Nacionalidade": "Brasileira",
+    "Idade": 65,
+    "Sexo": "Feminino"
+  },
+
+  {
+    "NomeCompleto": "Janaina do Vale",
+    "Endereco": "Rua das Ovelhas, 57, Cidade Alegre",
+    "Nacionalidade": "Brasileira",
+    "Idade": 40,
+    "Sexo": "Feminino"
+  }
+]
